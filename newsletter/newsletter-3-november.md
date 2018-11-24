@@ -24,6 +24,18 @@
 * [https://medium.com/convergentcx/the-convergent-billboard-6594b933648e](https://medium.com/convergentcx/the-convergent-billboard-6594b933648e)
 * check [https://medium.com/@cleanapp/blockchain-governance-bibliography-360efc52d3f9](https://medium.com/@cleanapp/blockchain-governance-bibliography-360efc52d3f9)
 
+Tim's addition:
+https://blog.aragon.one/the-future-of-organizations/
+
+Zero Knowledge Proof - Vlad and Gav go head-to-head on blockchain governance
+https://www.zeroknowledge.fm/52
+
+Future Thinkers Podcast - Upgrading Democracy For The Digital Age (Democracy Earth)
+https://youtu.be/aGSDZMmQfvg
+
+Tim Bansemer writes about expierences with practioners
+https://medium.com/@tim.bansemer/going-horizontal-new-governance-practices-towards-distributed-governance-9a2dcf29edcc
+
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
 
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
