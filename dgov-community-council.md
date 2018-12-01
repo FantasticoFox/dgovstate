@@ -20,7 +20,7 @@ We invite further selected people which develop blockchain layer 1 core-protocol
 
 We invite those who think about legal and policies. Like the great people from the Coala Think Tank around Primavera. We are humble and thankful that they will join us as well and share their expertise and perspective with us.
 
-We invite the practitioners from Peer2Peer Foundation, WeWork, Pelcolab and Enspiral to facilitate our two days council and share their expertise for advanced social protocols. Those are of great value to help with group facilitation and practices which help us to make better decisions while fostering group talent and expertise without relying on hierarchies.
+We invite the practitioners from Peer2Peer Foundation, Ouiwork, Pelcolab and Enspiral to facilitate our two days council and share their expertise for advanced social protocols. Those are of great value to help with group facilitation and practices which help us to make better decisions while fostering group talent and expertise without relying on hierarchies.
 
 Last but not least we invite the great individuals from the academic space which are looking forward to putting their expertise and research into practical application and move towards practical research in the realm of the distributed governance movement.
 
